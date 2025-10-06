@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SilkRoadContestTest
+comment0.text=\r\n\ The\ test\ class\ SilkRoadContestTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testSolveCustomCase()
+comment2.params=
+comment2.target=void\ testSolveEmpty()
+comment3.params=
+comment3.target=void\ testSolveNull()
+comment4.params=
+comment4.target=void\ testSimulateBasic()
+comment5.params=
+comment5.target=void\ testSolveFullCase()
+numComments=6

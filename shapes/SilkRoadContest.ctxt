@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SilkRoadContest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SilkRoadContest\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=daysData
+comment1.target=int[]\ solve(int[][])
+comment1.text=\r\n\ Resuelve\ el\ problema\ de\ la\ marat\u00F3n\ -\ calcula\ la\ m\u00E1xima\ utilidad\ diaria\r\n\ @param\ days\ matriz\ con\ informaci\u00F3n\ de\ cada\ d\u00EDa\r\n\ @return\ array\ con\ la\ m\u00E1xima\ utilidad\ para\ cada\ d\u00EDa\r\n
+comment2.params=days\ slow
+comment2.target=void\ simulate(int[][],\ boolean)
+comment2.text=\r\n\ Simula\ la\ soluci\u00F3n\ paso\ a\ paso\r\n\ @param\ days\ matriz\ con\ informaci\u00F3n\ de\ cada\ d\u00EDa\r\n\ @param\ slow\ determina\ la\ velocidad\ de\ simulaci\u00F3n\r\n
+comment3.params=silkRoad
+comment3.target=void\ EstadoActual(SilkRoad)
+comment3.text=\r\n\ Muestra\ el\ estado\ actual\ de\ la\ simulaci\u00F3n\r\n\ @param\ silkRoad\ la\ instancia\ de\ SilkRoad\r\n
+comment4.params=milisegundos
+comment4.target=void\ pausa(int)
+comment4.text=\r\n\ Pausa\ la\ simulaci\u00F3n\ por\ un\ tiempo\ determinado\r\n\ @param\ milisegundos\ tiempo\ de\ pausa\ en\ milisegundos\r\n
+numComments=5
