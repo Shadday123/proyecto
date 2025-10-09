@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SheepTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testSheepLosesEnergyAndMovesNorth()
+comment3.params=
+comment3.target=void\ testSheepDies()
+comment4.params=
+comment4.target=void\ testSheepDiesNearWolf()
+numComments=5

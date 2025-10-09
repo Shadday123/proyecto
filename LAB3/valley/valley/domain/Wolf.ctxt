@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wolf
+comment1.params=valley\ row\ column
+comment1.target=Wolf(Valley,\ int,\ int)
+comment2.params=
+comment2.target=int\ getShape()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
